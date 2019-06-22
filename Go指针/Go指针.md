@@ -1,6 +1,6 @@
 # Golang指针
 
-[](https://www.runoob.com/go/go-pointers.html)
+[Go指针](https://www.runoob.com/go/go-pointers.html)
 [理解Go指针](https://studygolang.com/articles/20139)
 
 ## 指针概念
