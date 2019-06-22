@@ -172,4 +172,4 @@ func swap2(x int, y int) {
 
 ## 值传递和引用传递
 
-![区别](img/值传递和引用传递.gif)
+![区别](https://github.com/jinjupeng/GoNotes/blob/master/Go%E6%8C%87%E9%92%88/Img/%E5%80%BC%E4%BC%A0%E9%80%92%E5%92%8C%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92.gif)
