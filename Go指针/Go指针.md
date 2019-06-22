@@ -9,7 +9,7 @@
 + 指针就是一个指向另一个内存地址变量的值。
 + 指针指向变量的内存地址，指针就像该变量值的内存地址一样。
 
-![Go指针](img/Go指针图示.jpeg)
+![Go指针](https://github.com/jinjupeng/GoNotes/blob/master/Go%E6%8C%87%E9%92%88/Img/Go%E6%8C%87%E9%92%88%E5%9B%BE%E7%A4%BA.jpeg)
 
 ```go
 package main
